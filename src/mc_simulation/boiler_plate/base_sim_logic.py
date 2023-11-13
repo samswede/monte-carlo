@@ -1,4 +1,6 @@
-class SimulationLogic:
+
+
+class MonteCarloSimulationLogic:
     """
     Base class for defining the simulation logic of a Monte Carlo simulation.
     
@@ -19,3 +21,4 @@ class SimulationLogic:
             a complex data structure, etc.).
         """
         raise NotImplementedError("Each SimulationLogic subclass must implement the run_iteration method.")
+

@@ -1,5 +1,5 @@
 
-class SimulationRunner:
+class MonteCarloRunner:
     """
     Class for running a Monte Carlo simulation.
 
