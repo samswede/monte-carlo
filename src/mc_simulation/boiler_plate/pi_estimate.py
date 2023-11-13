@@ -1,3 +1,6 @@
+import SimulationLogic from src.mc_simulation.boiler_plate.base_sim_logic
+import random
+
 # simulation_logic.py
 class BasicPiEstimation:
     def run_iteration(self):
